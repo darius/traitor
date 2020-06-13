@@ -84,7 +84,7 @@ must happen; but nothing brings us to think that one will, rather than
 the others. In this state of indecision, it is impossible for us to
 pronounce with certainty upon their occurrence. It is, however, probable
 that one of these events, taken at will, will not happen, because we
-see many cases equally possible which exclude its happening, while
+see many cases equally possible which exclude its occurrence, while
 favoring only one.
 
 The theory of chance consists in reducing all the events of the same
