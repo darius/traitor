@@ -100,7 +100,7 @@ passion too timid and ashamed to dare avowal.
 *(Suppressed from the first edition:)*
 
 Ego is the love of self and of all things for oneself; it makes
-men idolaters of themselves, and tyrants of others, should fortune give
+men idolators of themselves, and tyrants of others, should fortune give
 them the means. It never settles outside the self, and only pauses on
 foreign matters as bees will on flowers, to gather up what's theirs.
 
