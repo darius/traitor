@@ -23,7 +23,7 @@ which, losing from view the fugitive reasons for the choice of the
 will in indifferent things, is persuaded it determines itself by
 itself and without motives.
 
-So we ought to envisage the present state of the universe as the
+So we ought to view the present state of the universe as the
 effect of its previous state, and the cause of the next. An
 intelligence who, at a given instant, were to know all the forces that
 animate nature, and the respective situation of the beings composing
@@ -47,7 +47,7 @@ makes their true glory.
 
 Recall that of yore, not so long ago, a rain or a drought, a comet
 dragging a long-extended tail, the aurora borealis, and in general all
-extraordinary phenomena, were seen as so many signs of heavenly anger.
+extraordinary phenomena, were seen as so many signs of heavenly ire.
 We invoked the heavens to turn away their evil influence. We prayed
 not at all to suspend the course of the planets and the Sun:
 observation had quickly made felt the vanity of these prayers. But as
@@ -76,15 +76,15 @@ observation did not take long to confirm. The regularity shown us by
 Astronomy in the movement of comets has place, no doubt, in all
 phenomena. The curve described by a simple molecule of air or of
 vapors is ruled in a manner as certain as the planetary orbits: there
-are no differences between them but those of our ignorance.
+are no differences between these but those of our ignorance.
 
 Probability is relative in part to this ignorance, in part to our
 knowledge. We know that among three or a greater number of events, one
-must happen; but nothing brings us to think that one will rather than
+must happen; but nothing brings us to think that one will, rather than
 the others. In this state of indecision, it is impossible for us to
-pronounce with certainty about their occurrence. It is, however, probable
+pronounce with certainty upon their occurrence. It is, however, probable
 that one of these events, taken at will, will not happen, because we
-see many cases equally possible which exclude its occurrence, while
+see many cases equally possible which exclude its happening, while
 favoring only one.
 
 The theory of chance consists in reducing all the events of the same
