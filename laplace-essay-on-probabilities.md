@@ -1,15 +1,15 @@
 Every event, even those that by their minuteness seem not to hold to
 the great laws of nature, follow them as necessarily as the
-revolutions of the Sun. In the ignorance of the links that unite them
+revolutions of the Sun. In our ignorance of the links that unite them
 to the whole system of the universe, we made them depend on final
 causes, or chance, by which they would occur and succeed each other
 with regularity, or without apparent order; but these imaginary causes
 successively retreated with the borders of our knowledge, and would
-disappear wholly before the healthy philosophy, which sees in them
+disappear wholly before the healthy philosophy which sees in them
 only the expression of the ignorance actually caused by ourselves.
 
 Present events have, with preceding ones, a link founded on the
-evident principle, that one thing cannot begin to be without a cause
+evident principle that one thing cannot begin to be without a cause
 producing it. This axiom, known by the name of the *principle of
 sufficient reason*, reaches even the actions we judge indifferent. The
 freest will cannot, without a determining motive, give them birth; for
@@ -52,7 +52,7 @@ observation had quickly made felt the vanity of these prayers. But as
 these phenomena appeared and vanished at long intervals, seeming to
 oppose the order of nature, we supposed heaven, vexed by our earthly
 crimes, gave birth to them to announce its revenges. Thus the long
-tail of the comet of 1456 spread terror in Europe, already upset by
+tail of the comet of 1456 spread terror in a Europe already upset by
 the rapid successes of the Turks who had just thrown down the Low
 Empire. This star, after four of its revolutions, excited among us a
 quite different interest. The knowledge of the laws of the system of
@@ -62,7 +62,7 @@ having recognized the identity of this comet with those of 1531, 1607,
 and 1682, announced its next return for the end of 1758 or the start
 of 1759. The world awaited, with impatience, this return that ought to
 confirm one of the greatest discoveries ever made in the sciences, and
-fulfil the prediction of Seneca, when he said, of the revolution of
+fulfil the prediction of Seneca, when he said of the revolution of
 those stars which descend from a vast distance: "The day will come
 when, by a study pursued over many centuries, things currently hidden
 will seem evident; and posterity will marvel that such clear truths
@@ -77,10 +77,10 @@ vapors is ruled in a manner as certain as the planetary orbits: there
 are no differences between them but those of our ignorance.
 
 Probability is relative in part to this ignorance, in part to our
-knowledge. We know that of three or a greater number of events, one
+knowledge. We know that among three or a greater number of events, one
 must happen; but nothing brings us to think that one will rather than
 the others. In this state of indecision, it is impossible for us to
-pronounce with certainty about their occurrence. It is yet probable
+pronounce with certainty about their occurrence. It is, however, probable
 that one of these events, taken at will, will not happen, because we
 see many cases equally possible which exclude its occurrence, while
 favoring only one.
