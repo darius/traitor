@@ -143,7 +143,7 @@ follows the things that are to its whim.
 It is all the opposites: imperious and servile, sincere and
 dissembling, forgiving and cruel, timid and rash. It has different
 leanings for the various tempers that turn it, and pledges
-now to glory, now riches, now pleasures; so it changes with the
+now to glory, now to riches, now pleasures; so it changes with the
 changing of our ages, our fortunes, and our experiences, but cares not
 whether it have many or one humor, for it divides and rejoins as
 needed, and as it pleases. It is fickle, and beyond the changes
