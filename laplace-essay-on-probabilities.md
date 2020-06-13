@@ -59,7 +59,7 @@ the rapid successes of the Turks who had just thrown down the Low
 Empire. This star, after four of its revolutions, excited among us a
 quite different interest. The knowledge of the laws of the system of
 the world, gained in this interval, had dispelled the childish fears
-from ignorance of the true setting of man in the universe; and Halley,
+due to ignorance of the true setting of man in the universe; and Halley,
 having recognized the identity of this comet with those of 1531, 1607,
 and 1682, announced its next return for the end of 1758 or the start
 of 1759. The world awaited, with impatience, this return that ought to
