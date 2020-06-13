@@ -1,3 +1,5 @@
+https://fr.wikisource.org/wiki/Essai_philosophique_sur_les_probabilit%C3%A9s
+
 Every event, even those that by their minuteness seem not to hold to
 the great laws of nature, follow them as necessarily as the
 revolutions of the Sun. In our ignorance of the links that unite them
