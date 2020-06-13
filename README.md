@@ -1,4 +1,4 @@
-# Traduttore, tradittore
+# Traduttore, traditore
 My translations to English of selections from works whose originals are in the public domain.
 
 It should go without saying that translation is not endorsement. I
