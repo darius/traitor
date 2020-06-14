@@ -132,10 +132,10 @@ Nothing is so near and strong as its attachments, which it tries
 vainly to break upon seeing the unhappy extremes that threaten
 it.
 Yet sometimes it performs in scant time, with no effort, what it
-could not do with all its means in the course of
+could not do with all its means in a course of
 years; implying rather plausibly that it's by itself that its desires are
 ignited, not by the beauty and merit of its objects; that its
-taste is the mark that accents them, and the rouge that adorns them;
+taste is the price that tags them, and the rouge that adorns them;
 that it's after itself that it runs, and it is following its whim, when it
 follows the things that are to its whim.
 
