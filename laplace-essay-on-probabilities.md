@@ -35,7 +35,7 @@ its eyes. The human mind offers, in the perfection it has been able to
 give Astronomy, a feeble sketch of this intelligence. Its discoveries
 in Mechanics and Geometry, along with that of universal gravity, have
 set it in reach to comprehend in the same analytic expressions the
-states past and future of the system of the world. In applying the
+past and future states of the system of the world. In applying the
 same method to some other objects of its knowledge, it succeeded in
 ramifying into general laws the observed phenomena, and in foreseeing
 which of the given circumstances should hatch. All these efforts in
