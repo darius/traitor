@@ -111,7 +111,7 @@ We cannot sound the depth nor pierce the shadows of its abysses:
 there, it is under cover from the most penetrating eyes; it makes a
 thousand undetectable twists and turns; there it is often invisible to
 itself; there it conceives, nurtures, and raises, without being
-known, a great number of likings and hates; of some it shapes such
+known, a great many affections and hates; of some it shapes such
 monsters that, should they be lit by day, it misconstrues them,
 or cannot be brought to acknowledge them.
 From this night that shrouds it are born the absurd persuasions it has of
