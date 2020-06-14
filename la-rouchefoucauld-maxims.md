@@ -147,8 +147,8 @@ changing of our ages, our fortunes, and our experiences, but cares not
 whether it have many or one humor, for it divides and rejoins as
 needed, and as it pleases. It is fickle, and beyond the changes
 caused from without, it has an infinity born in itself, of
-its own spring; it is fickle in its fickleness, its lightness, loves,
-novelties, weariness, and disgust; it is capricious, and is seen
+its own spring; it is fickle out of fickleness, out of lightness, love
+of novelty, weariness, and disgust; it is capricious, and is seen
 at times to work with ultimate ardor, and with incredible
 efforts, to gain bootless things, even harmful ones, but pursued
 because it wants them. It is peculiar, and often puts all its effort
