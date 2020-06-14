@@ -106,7 +106,7 @@ foreign matters as bees will on flowers, to gather up what's theirs.
 Naught is so impulsive as its desires, naught so secret as its
 designs, naught so artful as its driving; its agilities are beyond
 depiction, its evolutions surpass any metamorphosis, its subtleties
-all of chemistry.
+any of chemistry.
 We cannot sound the depth nor pierce the shadows of its abysses:
 there, it is under cover from the most penetrating eyes; it makes a
 thousand undetectable twists and turns; there it is often invisible to
