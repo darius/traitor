@@ -7,7 +7,7 @@ to the whole system of the universe, we made them depend on final
 causes, or chance, by which they would occur and succeed one another
 with regularity, or without apparent order; but these imaginary causes
 successively retreated with the borders of our knowledge, and would
-disappear wholly before the healthy philosophy which sees in them
+disappear wholly before the healthy philosophy that sees in them
 only the expression of the ignorance actually caused by ourselves.
 
 Present events have, with preceding ones, a link founded on the
