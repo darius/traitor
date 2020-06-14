@@ -96,3 +96,29 @@ the measure of this probability, which thus is simply a fraction whose
 numerator counts the favorable cases and whose denominator counts the
 possible.
 
+The above notion of probability implies that upon inflating by the
+same proportion both the favorable and the possible cases, the
+probability remains the same. To be convinced of this, consider two
+urns A and B, the first containing four white balls and two black, and
+the second holding only two white balls and one black. You can imagine
+the two black balls of the first urn bound by a thread which breaks
+at the moment you grasp one of the balls to extract it, and the four
+white balls making two similar pairs. Every event of grasping one of
+the balls of the black pair yields a black ball. If you suppose now
+that the threads uniting the balls no longer break, it is clear that
+the number of possible events will not change, nor will the number of
+events favorable to the extraction of black balls; only, you will pull
+from the urn two balls at once; hence the probability of producing a
+black ball will be the same as at first. But then you have the case of
+urn B, with the sole difference that the three balls of this urn be
+replaced by three pairs of balls invariably bound.
+
+`XXX 'every event' above for 'toutes les chances'. Does that confuse
+meanings for 'event' which Laplace meant to keep apart?`
+
+When every case is favorable to an event, its probability becomes
+certainty, and its expression equal to unity. In this way certainty
+and probability are comparable, whatever essential difference there
+may be between the two states of the mind, when either a truth is
+rigorously proved to it, or it sees still a small source of error.
+
