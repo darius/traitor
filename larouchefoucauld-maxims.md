@@ -4,9 +4,9 @@
 
 ### Our virtues, most often, are but vices disguised.
 
-1. What we take for virtues are often only a congeries of doings and
-interests, that chance or our industry know how to arrange; and it is
-not always by courage and chastity that men are brave, and women
+1. What we take for virtues are often only a jumble of doings and
+interests, that chance or our own industry know how to arrange; and it is
+not always by valor and chastity that men are brave, and women
 chaste.
 
 2. Ego is the greatest of all toadies.
@@ -21,14 +21,14 @@ of our life.
 
 6. Often passion makes a fool of the cleverest man, and the silliest crafty.
 
-7. Those grand and striking deeds that blind the eyes are portrayed by
+7. Those grand and striking deeds that dazzle the eyes are portrayed by
 the powerful as due to great designs, yet mostly owe to temperament
 and the passions. So the war between Augustus and Antony, ascribed to their
-ambition to be masters of all, might be simply a sequel to jealousy.
+ambition to be masters of all, might be merely a sequel to jealousy.
 
 8. The passions are the sole orators who always persuade. They are
 like a natural art whose rules never fail; and the simplest man who
-has passion sways better than the smoothest who has none.
+has passion sways better than the smoothest-tongued who has none.
 
 9. The passions have an unfairness and self-interest that make them
 risky to follow, deserving challenge even when seeming the most
@@ -62,7 +62,7 @@ now by sloth, often by fear, and nearly always by all three.
 gives their nature.
 
 18. Moderation is a fear of falling into the envy and contempt earned
-by those enfeebled by their good luck; an empty show of our mental
+by those who are drunk on their good times; an empty show of our mental
 strength; and lastly in the most elevated men a wish to seem greater
 than their fortune.
 
@@ -82,24 +82,23 @@ ills prevail.
 23. Few are acquainted with death. We suffer it not usually by
 resolution, but by stupidity and custom; and the bulk of men die
 because it cannot be prevented.
-*(I'm more than usually at sea here.)*
+`I'm more than usually at sea here.`
 
 24. When the great are struck by lengthy misfortunes, they show
-they're only supported by the strength of their ambition, not their
-soul's. They show a great vanity near to the heroes being made like
-other men.
-*(Ditto.)*
+they are supported only by their ambition's strength, not their
+soul's, and that despite a great vanity near to the heroes they are
+made like other men.
 
 25. Greater virtues are needed to withstand good fortune than ill.
 
 26. One cannot gaze at either the sun or death.
 
-27. We often boast even the most criminal passions; but envy is a
+27. We are often vain about even the most criminal passions; but envy is a
 passion too timid and ashamed to dare avowal.
 
-*(Suppressed from the first edition:)*
+*(Removed after the first edition:)*
 
-Ego is the love of self and of all things for oneself; it makes
+1. Ego is the love of self and of all things for oneself; it makes
 men idolators of themselves, and tyrants of others, should fortune give
 them the means. It never settles outside the self, and only pauses on
 foreign matters as bees will on flowers, to gather up what's theirs.
