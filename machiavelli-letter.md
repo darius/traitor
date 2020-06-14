@@ -16,7 +16,7 @@ on royal and curial clothing; and thus invested, I enter into the
 age-old courts of the ancients, where, by them warmly welcomed, I
 partake of that food which is mine alone and for which I'm born; where
 I am not ashamed to speak with them and ask the reasons for their
-actions; and they by their humanity answer me; and through four hours
+actions; and they in their humanity answer me; and through four hours
 of time I feel no boredom, I forget all worry, I fear not poverty, I
 am not dismayed by death: I give myself wholly to them. . .
 
