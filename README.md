@@ -7,3 +7,7 @@ and sometimes to induce me to read the classics closely.
 
 The repository name is meant rather more as a reminder than as
 license.
+
+> I am continually fattening and currying it.
+
+-- Machiavelli on *The Prince*
