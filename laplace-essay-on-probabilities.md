@@ -231,9 +231,9 @@ way the probabilites increase and decrease by their mutual
 combinations. If the events are independent of each other, the
 probability of their existing together is the product of their
 particular probabilities. Thus the probability of achieving an ace
-with a single die, being a sixth; that of achieving two aces in
-rolling two dice at once is a thirty-sixth. In fact, each of the faces
-of the one being combinable with the six faces of the other, there are
+with a single die being a sixth, that of achieving two aces in rolling
+two dice at once is a thirty-sixth. In fact, each of the faces of the
+one die being combinable with the six faces of the other, there are
 thirty-six equally possible cases, among which only one yields the two
 aces. Generally, the probability that a simple event in the same
 circumstances . . .
