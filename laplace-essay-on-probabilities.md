@@ -257,7 +257,7 @@ reputed certain, would be at least doubtful, if submitted to this test.
 In the purely mathematical sciences, the most distant consequences
 partake of the certainty of the principle of which they derive. In the
 applications of Analysis to Physics, the consequences have all the
-certainty of facts or experiments. But in the moral sciences where
+certainty of facts or experiments. But in the moral sciences when
 each consequence is deduced from the previous one in only a probable
 way, the chance of error increases with their number, and finishes by
 surpassing the chance of truth, in consequences very distant from the
