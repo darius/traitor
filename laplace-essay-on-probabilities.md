@@ -245,8 +245,8 @@ further that the probability of each testimony equal 9/10: that of the
 fact, resulting from the testimonies, will be less than one
 eighth. One cannot better compare this diminution of probability than
 to the extinction of the light from objects, by the interposition of
-multiple sheets of glass; an insignificant number of sheets sufficing
-to conceal the sight of an object which a single sheet leaves
+multiple pieces of glass; an insignificant number of pieces sufficing
+to conceal the sight of an object which a single piece leaves
 distinctly perceptible. Historians seem not to have paid enough
 attention to this degradation of the probability of facts, when seen
 across a great many successive generations: many historical events,
