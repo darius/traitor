@@ -103,7 +103,7 @@ urns A and B, the first containing four white balls and two black, and
 the second holding only two white balls and one black. You can imagine
 the two black balls of the first urn bound by a thread which breaks
 at the moment you grasp one of the balls to extract it, and the four
-white balls making two similar pairs. Every event of grasping one of
+white balls forming two similar pairs. Every event of grasping one of
 the balls of the black pair yields a black ball. If you suppose now
 that the threads uniting the balls no longer break, it is clear that
 the number of possible events will not change, nor will the number of
