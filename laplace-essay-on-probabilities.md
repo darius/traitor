@@ -175,11 +175,13 @@ weigh their respective probabilities.
 `XXX first sentence above is too convoluted imho. And maybe something like 'following which' -> 'following whom'?`
 
 The difference of opinions depends still on the way we determine the
-influence of the known data. The theory of probabilities holds to
+influence of the known data. The theory of probabilities grasps
 considerations so delicate that it is not surprising that with the
 same data, two people find different results, above all in very
 complicated questions. We explain here the general principles of this
 Theory.
+
+`XXX tient, grasps: covers? holds? encompasses? deals with?`
 
 **1st Principle.** The first of these principles is just the definition
 of probability which, as we've seen, is the proportion of the number
