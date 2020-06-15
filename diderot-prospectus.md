@@ -24,3 +24,10 @@ epigraph by our success:
 > Tantum series juncturaque pollet,  
 Tantum de medio sumptis accedit honoris!  
 Horat. *de Arte. poet.*, v. 249.
+
+```
+Perhaps:
+Such power in order and arrangement
+Taken of the ordinary, confers so much honor!
+(N.B. I don't know Latin.)
+```
