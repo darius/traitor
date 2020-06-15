@@ -40,7 +40,7 @@ same method to some other objects of its knowledge, it succeeded in
 ramifying into general laws the observed phenomena, and in foreseeing
 which of the given circumstances should hatch. All these efforts in
 the search for truth tend ceaselessly towards the intelligence we just
-conceived, which will always remain infinitely distant. This tendency,
+conceived, which will remain always infinitely distant. This tendency,
 native to the human species, is what places it above the animals; and
 its progress of this kind distinguishes nations and centuries, and
 makes their true glory.
@@ -96,7 +96,7 @@ the measure of this probability, which thus is simply a fraction whose
 numerator counts the favorable cases and whose denominator counts the
 possible.
 
-The above notion of probability implies that upon inflating by the
+The above notion of probability implies that upon magnifying by the
 same proportion both the favorable and the possible cases, the
 probability remains the same. To be convinced of this, consider two
 urns A and B, the first containing four white balls and two black, and
