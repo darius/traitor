@@ -122,3 +122,118 @@ and probability are comparable, whatever essential difference there
 may be between the two states of the mind, when either a truth is
 rigorously proved to it, or it sees still a small source of error.
 
+For things that are only probable, the difference of data that each
+man has about them is one of the main causes of the diversity of
+opinions we see reigning over the same objects. Let us suppose, for
+example, we have three urns A, B, C, with one containing only black
+balls while the two others hold only white balls, we must pull a ball
+from urn C, and we ask for the probability that this ball will be
+black. If ignorant about which of the three urns it is that holds only
+black balls, you would have no reason to believe it is C rather than B
+or A; these three hypotheses would seem equally possible, and as a
+black ball can only be extracted by the first hypothesis, the
+probability of the extraction is equal to one third. If you knew that
+urn A held only white balls, the indecision then would carry only to
+urns B and C, and the probability that the ball out of urn C will be
+black is one half. Lastly, this probability resolves to certainty if
+you are assured that urns A and B hold only white balls.
+
+In this way the same fact, recited before a numerous assembly, obtains
+various degrees of credence, according to the extent of knowledge of
+the audience. If the man who reports it is intimately persuaded, and
+if, by his state and his character, he inspires great confidence; his
+tale, however extraordinary it be, will have for unenlightened
+listeners the same degree of probability as an ordinary fact reported
+by the same man, and they will give him an entire faith. However if
+some of them were to know that the same fact is rejected by other
+equally-respectable men, it will be under doubt, and the fact will be
+judged false by the enlightened listeners who will find it contrary to
+either well-attested facts or the immutable laws of nature.
+
+`XXX ajouteront: give?`
+
+It is to the influence of the opinion of those whom the multitude
+judge the best instructed, and to whom it has the custom of bestowing
+its trust upon the most important objects of life, that is due the
+propagation of those errors that, in the times of ignorance, covered
+the face of the world. Magic and Astrology offer us two great
+examples. These errors inculcated since childhood, adopted unchecked,
+and having for basis only universal belief, maintained themselves
+through a very long time, until at last the progress of the sciences
+destroyed them in the minds of enlightened men, following which the
+opinion was made to disappear even among the people by the power so
+widespread in them of imitation and habit. This power, the most
+powerful resort of the moral world, establishes and conserves in all
+of a nation ideas wholly contrary to those that it maintains elsewhere
+with the same empire. What indulgence do we not owe then towards
+opinions different from ours, since this difference often depends
+merely on the diverse points of view where circumstances place us! Let
+us enlighten those we judge insufficiently instructed; but first of
+all let us severely examine our own opinions, and with impartiality
+weigh their respective probabilities.
+
+`XXX first sentence above is too convoluted imho`
+
+The difference of opinions depends still on the way we determine the
+influence of the known data. The theory of probabilities holds to
+considerations so delicate that it is not surprising that with the
+same data, two people find different results, above all in very
+complicated questions. We explain here the general principles of this
+Theory.
+
+**1st Principle.** The first of these principles is just the definition
+of probability which, as we've seen, is the proportion of the number
+of favorable cases to that of all cases possible.
+
+**2nd Principle.** But that supposes the diverse cases equally
+possible. If they are not, we will determine first their respective
+possibilities, of which the just appreciation is one of the most
+delicate points of the theory of chance. Then the probability will be
+the sum of the possibilities of each favorable case. Let us clarify
+this principle by an example.
+
+Suppose we project into the air a broad and very thin coin whose two
+large opposed faces, which we name *cross* and *pillar*, be perfectly
+similar. We seek the probability of achieving *cross* at least once in
+two tosses. It is clear there can occur four equally possible cases,
+namely: *cross* on the first toss and the second; *cross* on the first
+toss and *pillar* on the second; *pillar* first and *cross* second;
+and finally *pillar* on both tosses. The first three cases are
+favorable to the event we seek, whose probability is thus equal to
+3/4; implying that it is three against one to bet that *cross* will
+happen at least one time in two tosses.
+
+`XXX pile = pillar? achieving/happening cross -> cross arriving?`
+
+We can count in this game only three different cases, namely: *cross*
+on the first toss, which dispenses with playing a second; *pillar* on
+the first toss and *cross* on the second; and finally *pillar* on the
+first and second tosses. This would reduce the probability to 2/3, if
+we were to consider, with d'Alembert, these three cases as equally
+possible. But it is visible that the probability of achieving *cross*
+on the first toss is 1/2, while that of the two other cases is 1/4;
+the first case being a simple event that corresponds to the two
+compound events, *cross* on the first and second tosses, and *cross*
+on the first toss, *pillar* on the second. Now if, conforming to the
+second principle, we add the possibility 1/2 of *cross* on the first
+toss, to the possibility 1/4 of *pillar* happening on the first toss
+and *cross* on the second, we will have 3/4 for the probability
+sought, which accords with what we found on the supposition of playing
+both tosses. This supposition does not change in the least the outcome
+we bet on for this event: it serves merely to reduce the diverse cases
+to equally-possible ones.
+
+**3rd Principle.** One of the most important points of the theory of
+Probabilities, and the one that lends the most to illusions, is the
+way the probabilites increase and decrease by their mutual
+combinations. If the events are independent of each other, the
+probability of their existing together is the product of their
+particular probabilities. Thus the probability of achieving an ace
+with a single die, being a sixth; that of achieving two aces in
+rolling two dice at once is a thirty-sixth. In fact, each of the faces
+of the one being combinable with the six faces of the other, there are
+thirty-six equally possible cases, among which only one yields the two
+aces. Generally, the probability that a simple event in the same
+circumstances . . .
+
+p. 17
