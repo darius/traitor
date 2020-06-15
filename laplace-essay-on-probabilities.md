@@ -236,6 +236,36 @@ two dice at once is a thirty-sixth. In fact, each of the faces of the
 one die being combinable with the six faces of the other, there are
 thirty-six equally possible cases, among which only one yields the two
 aces. Generally, the probability that a simple event in the same
-circumstances . . .
+circumstances, will occur in sequence a given number of times, is
+equal to the probability of this simple event, raised to a power
+indicated by this number. As the successive powers of a fraction less
+than unity diminish without cease, an event that depends on a series
+of quite large probabilities can become extremely improbable. Suppose
+that a fact reach us by twenty witnesses, in the manner that the first
+transmit it to the second, the second to the third, and so on. Suppose
+further that the probability of each testimony equal 9/10: that of the
+fact, resulting from the testimonies, will be less than one
+eighth. One cannot better compare this diminution of probability than
+to the extinction of the light from objects, by the interposition of
+multiple sheets of glass; an insignificant number of sheets sufficing
+to conceal the sight of an object which a single sheet leaves
+distinctly perceptible. Historians seem not to have paid enough
+attention to this degradation of the probability of facts, when seen
+across a great many successive generations: many historical events,
+reputed certain, would be at least dubious, if submitted to this test.
+
+In the purely mathematical sciences, the most distant consequences
+partake of the certainty of the principle of which they derive. In the
+applications of Analysis to Physics, the consequences have all the
+certainty of facts or experiments. But in the moral sciences where
+each consequence is deduced from one preceding it only in a probable
+way, the chance of error increases with their number, and finishes by
+surpassing the chance of truth, in consequences very distant from the
+beginning.
+
+**4th Principle.** When two events depend one on the other, the
+probability of the compound event is the product of the probability of
+the first event, by the probability that, this event having happened,
+the other does. . .
 
 p. 17
