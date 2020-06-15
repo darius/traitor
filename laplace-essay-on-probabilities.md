@@ -172,7 +172,7 @@ us enlighten those we judge insufficiently instructed; but first of
 all let us severely examine our own opinions, and with impartiality
 weigh their respective probabilities.
 
-`XXX first sentence above is too convoluted imho`
+`XXX first sentence above is too convoluted imho. And maybe something like 'following which' -> 'following whom'?`
 
 The difference of opinions depends still on the way we determine the
 influence of the known data. The theory of probabilities holds to
