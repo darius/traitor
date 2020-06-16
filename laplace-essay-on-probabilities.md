@@ -133,7 +133,7 @@ black balls, you would have no reason to believe it is C rather than B
 or A; these three hypotheses would seem equally possible, and as a
 black ball can only be extracted by the first hypothesis, the
 probability of the extraction is equal to one third. If you knew that
-urn A held only white balls, the indecision then would carry only to
+urn A held only white balls, the uncertainty then would carry only to
 urns B and C, and the probability that the ball out of urn C will be
 black is one half. Lastly, this probability resolves to certainty if
 you are assured that urns A and B hold only white balls.
@@ -264,6 +264,26 @@ beginning.
 **4th Principle.** When two events depend one on the other, the
 probability of the compound event is the product of the probability of
 the first event, by the probability that, this event having happened,
-the other does. . .
+the other does. Thus, in the preceding case of three urns A, B, C, two
+of which hold only white balls and one holding only black balls, the
+probability of pulling a white ball out of urn C is 2/3, since of the
+three urns, two contain only balls of this color. But once we have
+extracted a white ball from urn C, the uncertainty regarding which of
+the urns contains only black balls now carrying only to urns A and B,
+the probability of extracting a white ball from urn B is 1/2, and the
+product of 2/3 by 1/2, or 1/3, is then the probability to extract at
+one time, from the urns B and C, two white balls. Indeed, it is
+necessary for this that urn A be the one of the three urns that holds
+the black balls; and the probability of this case is evidently 1/3.
 
-p. 17
+We see by this example the influence of past events on the probability
+of future ones. Because the probability to extract a white ball from
+urn B, which primitively is 2/3, becomes 1/2 once we have extracted a
+white ball from urn C: it would be changed to certainty if we had
+extracted a black ball from the same urn. We will determine this
+influence by means of the following principle, which is a corollary of
+the preceding one.
+
+**5th Principle.** 
+
+p. 19
