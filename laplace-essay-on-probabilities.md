@@ -1,14 +1,14 @@
 https://fr.wikisource.org/wiki/Essai_philosophique_sur_les_probabilit%C3%A9s
 
 This philosophical Essay is the development of a lesson on
-probabilities which I gave in 1795 at the *écoles normales* where I
+probabilities which I gave in 1795 at the Écoles Normales where I
 was professor of Mathematics with Lagrange, by a decree of the
 National Convention. I recently published on the same subject a work
 titled *Analytic Theory of Probabilites*. I present here, without the
 aid of Analysis, the principles and general results of this theory,
 applying them to the paramount questions of life, which are in effect,
 for the most part, nothing but problems of probability. We can even
-say, to speak with rigor, that almost all of our knowledge is merely
+say, to speak with rigor, that almost all our knowledge is merely
 probable; and in the small number of things we can know with
 certainty, in the mathematical sciences themselves, the principal
 means of arriving at truth -- induction and analogy -- are founded on
@@ -75,7 +75,7 @@ makes their true glory.
 
 Recall that of yore, not so long ago, a rain or a drought, a comet
 dragging a long-extended tail, the aurora borealis, and in general all
-extraordinary phenomena, were seen as so many signs of heavenly ire.
+extraordinary phenomena, were regarded as so many signs of heavenly ire.
 We invoked the heavens to turn away their evil influence. We prayed
 not at all to suspend the course of the planets and the Sun:
 observation had quickly made felt the vanity of these prayers. But as
@@ -117,7 +117,7 @@ favoring only one.
 
 The theory of chance consists in reducing all the events of the same
 kind to a certain number of cases all equally possible, meaning such
-that we are equally undecided about their occurrence; and to determine
+that we be equally undecided about their occurrence; and in determining
 the number of cases favorable to the event whose probability we
 seek. The proportion of this number to that of all possible cases is
 the measure of this probability, which thus is simply a fraction whose
@@ -182,7 +182,7 @@ either well-attested facts or the immutable laws of nature.
 
 It is to the influence of the opinion of those whom the multitude
 judge the best instructed, and to whom it has the custom of bestowing
-its trust upon the most important objects of life, that is due the
+its trust about the most important objects of life, that is due the
 propagation of those errors that, in the times of ignorance, covered
 the face of the world. Magic and Astrology offer us two great
 examples. These errors inculcated since childhood, adopted unchecked,
@@ -200,6 +200,7 @@ us enlighten those we judge insufficiently instructed; but first of
 all let us severely examine our own opinions, and with impartiality
 weigh their respective probabilities.
 
+`XXX instructed: informed?` `XXX use/placement of widespread?`
 `XXX first sentence above is too convoluted imho. And maybe something like 'following which' -> 'following whom'?`
 
 The difference of opinions depends still on the way we determine the
