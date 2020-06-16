@@ -141,7 +141,7 @@ follows the things that are to its whim.
 
 It is all the opposites: imperious and servile, sincere and
 dissembling, forgiving and cruel, timid and rash. It has different
-leanings for the various tempers that turn it, and pledges
+inclinations for the various tempers that turn it, and pledges
 now to glory, now to riches, now pleasures; so it changes with the
 changing of our ages, our fortunes, and our experiences, but cares not
 whether it have many or one humor, for it divides and rejoins as
@@ -167,7 +167,7 @@ to be destroyed, because just when it's ruined in one spot, it is
 reestablished in another; when it thinks it's quitting its pleasure, it
 only suspends or alters it, and even when conquered and
 believing itself so, it finds triumph in its own defeat. See here the
-picture of ego, all life a great and lengthy agitation thereof.
+portrait of ego, all life a great long agitation thereof.
 Picture it as the sea: the ego finding, in the
 waves' restless ebb and flow, a faithful expression of
 its turbulent succession of thoughts, and of its eternal movements.
