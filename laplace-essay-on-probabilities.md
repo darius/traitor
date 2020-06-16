@@ -1,5 +1,33 @@
 https://fr.wikisource.org/wiki/Essai_philosophique_sur_les_probabilit%C3%A9s
 
+This philosophical Essay is the development of a lesson on
+probabilities which I gave in 1795 at the *écoles normales* where I
+was professor of Mathematics with Lagrange, by a decree of the
+National Convention. I recently published on the same subject a work
+titled *Analytic Theory of Probabilites*. I present here, without the
+aid of Analysis, the principles and general results of this theory,
+applying them to the paramount questions of life, which are in effect,
+for the most part, nothing but problems of probability. We can even
+say, to speak with rigor, that almost all of our knowledge is merely
+probable; and in the small number of things we can know with
+certainty, in the mathematical sciences themselves, the principal
+means of arriving at truth -- induction and analogy -- are founded on
+probabilities; implying that the whole system of human knowledge
+attaches to the theory exposed in this Essay. It will be seen there
+with undoubted interest, even considering only the eternal principles
+of reason, justice, and humanity, that for the happy chances that are
+constantly attached to them, there is a great advantage in following
+these principles, and grave inconveniences in straying from them:
+their chances, like those that are favorable to lotteries, always
+finish by prevailing over the oscillations of luck. I desire that the
+reflections spread throughout this Essay may deserve the attention of
+philosophers, and direct them to an object so worthy of occupying
+them.
+
+`XXX revise penultimate sentence`
+
+---------------
+
 Every event, even those that by their minuteness seem not to hold to
 the great laws of nature, follows them as necessarily as the
 revolutions of the Sun. In our ignorance of the links that unite each
