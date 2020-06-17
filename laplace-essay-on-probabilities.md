@@ -8,9 +8,9 @@ Mathematics with Lagrange, by a decree of the National Convention. I
 recently published on the same subject a work titled *Analytic Theory
 of Probabilites*. I present here, without the aid of Analysis, the
 principles and general results of this theory, applying them to the
-main questions of life, which are in essence, for the most part,
-nothing but problems of probability. Strictly speaking, nearly all our
-knowledge is no more than probable; and in the few things we can know
+chief questions of life, which are indeed, for the greatest part,
+none but problems of probability. Strictly speaking, nearly all our
+knowledge is no more than probable; and even in the few things we can know
 for certain, in the mathematical sciences themselves, the principal
 means for attaining truth -- induction and analogy -- are rooted in
 probabilities; so the whole system of human knowledge is tied to the
@@ -316,9 +316,9 @@ future. Let us suppose that in the game of *cross* or *pillar*,
 be brought to believe that in the makeup of the coin there is a cause
 constantly favoring this. So too, in the conduct of life, is
 consistent good fortune a proof of shrewdness, which the fortunate
-must employ preferentially. But if by the instability of circumstance
+must employ preferentially. But if by the instability of circumstances
 we are continually led to a state of absolute indecision; if for
-example we change to a new coin for each toss; the past can spread no
-light over the future, and it would be absurd to take it into account.
+example we change to a new coin for each toss; the past can shed no
+light upon the future, and it would be absurd to take it into account.
 
 **6th Principle.**
