@@ -1,5 +1,7 @@
 https://fr.wikisource.org/wiki/Essai_philosophique_sur_les_probabilit%C3%A9s
 
+# Philosophical Essay on Probabilities
+
 This philosophical Essay grew out of a course on probabilities which I
 gave in 1795 at the Écoles Normales where I was professor of
 Mathematics with Lagrange, by a decree of the National Convention. I
@@ -22,7 +24,7 @@ prevail over the swings of fortune. I desire that the reflections
 spread throughout this Essay may deserve the attention of
 philosophers, and direct them to an object so worthy to engage them.
 
----------------
+## On probability
 
 Every event, even those that by their minuteness seem not to hold to
 the great laws of nature, follows them as necessarily as the
@@ -197,6 +199,8 @@ considerations so delicate that it is not surprising that with the
 same data, two people find different results, above all in very
 complicated questions. We explain here the general principles of this
 Theory.
+
+## General principles of the calculus of Probabilities
 
 **1st Principle.** The first of these principles is just the definition
 of probability which, as we've seen, is the proportion of the number
