@@ -311,9 +311,9 @@ observed event.
 
 Here is presented the question agitated[XXX] by some philosophers,
 touching the influence of the past on the probability of the
-future. Let's suppose that in the game of *cross* or *pillar*, *cross*
-has happened more often than *pillar*: by that alone, we will be
-brought to believe that in the makeup of the coin there is a cause
+future. Let us suppose that in the game of *cross* or *pillar*,
+*cross* has happened more often than *pillar*: by that alone, we will
+be brought to believe that in the makeup of the coin there is a cause
 constantly favoring this. So too, in the conduct of life, is
 consistent good fortune a proof of shrewdness, which the fortunate
 must employ preferentially. But if by the instability of circumstance
