@@ -10,7 +10,7 @@ main questions of life, which are in essence, for the most part,
 nothing but problems of probability. Strictly speaking, nearly all our
 knowledge is no more than probable; and in the few things we can know
 for certain, in the mathematical sciences themselves, the principal
-means of attaining truth -- induction and analogy -- are rooted in
+means for attaining truth -- induction and analogy -- are rooted in
 probabilities; so the whole system of human knowledge is tied to the
 theory exposed in this Essay. Therein will be seen, with undoubted
 interest, that, even considering only the eternal principles of
@@ -137,9 +137,6 @@ black ball will be the same as at first. But then you have the case of
 urn B, with the sole difference that the three balls of this urn be
 replaced by three pairs of balls invariably bound.
 
-`XXX 'every event' above for 'toutes les chances'. Does that confuse
-meanings for 'event' which Laplace meant to keep apart?`
-
 When every case is favorable to an event, its probability becomes
 certainty, and its expression equal to unity. In this way certainty
 and probability are comparable, whatever essential difference there
@@ -174,8 +171,6 @@ equally-respectable men, it will be under doubt, and the fact will be
 judged false by the enlightened listeners who will find it contrary to
 either well-attested facts or the immutable laws of nature.
 
-`XXX ajouteront: give?`
-
 It is to the influence of the opinion of those whom the multitude
 judge the best instructed, and to whom it has the custom of bestowing
 its trust about the most important objects of life, that is due the
@@ -195,9 +190,6 @@ merely on the diverse points of view where circumstances place us! Let
 us enlighten those we judge insufficiently instructed; but first of
 all let us severely examine our own opinions, and with impartiality
 weigh their respective probabilities.
-
-`XXX instructed: informed?` `XXX use/placement of widespread?`
-`XXX first sentence above is too convoluted imho. And maybe something like 'following which' -> 'following whom'?`
 
 The difference of opinions depends still on the way we determine the
 influence of the known data. The theory of probabilities holds
@@ -227,8 +219,6 @@ and finally *pillar* on both tosses. The first three cases are
 favorable to the event we seek, whose probability is thus equal to
 3/4; implying that it is three against one to bet that *cross* will
 happen at least one time in two tosses.
-
-`XXX pile = pillar? achieving/happening cross -> cross arriving?`
 
 We can count in this game only three different cases, namely: *cross*
 on the first toss, which dispenses with playing a second; *pillar* on
@@ -266,8 +256,8 @@ than unity diminish without cease, an event that depends on a series
 of quite large probabilities can become extremely improbable. Suppose
 that a fact reach us by twenty witnesses, in the manner that the first
 transmit it to the second, the second to the third, and so on. Suppose
-further that the probability of each testimony equal 9/10: that of the
-fact, resulting from the testimonies, will be less than one
+further that the probability of each testimony be 9/10: then that of the
+fact resulting from the testimonies will be less than one
 eighth. One cannot better compare this diminution of probability than
 to the extinction of the light from objects, by the interposition of
 multiple pieces of glass; an insignificant number of pieces sufficing
@@ -311,4 +301,3 @@ the preceding one.
 
 **5th Principle.** 
 
-p. 19
