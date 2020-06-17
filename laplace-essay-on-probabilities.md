@@ -303,5 +303,22 @@ extracted a black ball from the same urn. We will determine this
 influence by means of the following principle, which is a corollary of
 the preceding one.
 
-**5th Principle.** 
+**5th Principle.** If we calculate *a priori* the probability of the
+event observed, and the probability of an event composed of that one
+and of another which we await; the second probability, divided by the
+first, will be the probability of the awaited event, given the
+observed event.
 
+Here is presented the question agitated[XXX] by some philosophers,
+touching the influence of the past on the probability of the
+future. Let's suppose that in the game of *cross* or *pillar*, *cross*
+has happened more often than *pillar*: by that alone, we will be
+brought to believe that in the makeup of the coin there is a cause
+constantly favoring this. So too, in the conduct of life, is
+consistent good fortune a proof of shrewdness, which the fortunate
+must employ preferentially. But if by the instability of circumstance
+we are continually led to a state of absolute indecision; if for
+example we change to a new coin for each toss; the past can spread no
+light over the future, and it would be absurd to take it into account.
+
+**6th Principle.**
