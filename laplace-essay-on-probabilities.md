@@ -322,3 +322,50 @@ example we change to a new coin for each toss; the past can shed no
 light upon the future, and it would be absurd to take it into account.
 
 **6th Principle.**
+Each of the causes to which an observed event can be attributed, is
+indicated with as much greater probability, as it is more probable
+that, this cause being supposed to exist, the event will take place;
+the probability of existence of each one of these causes is thus a
+fraction whose numerator is the probability of the event, resulting
+from this cause, and whose denominator is the sum of the similar
+probabilities relative to all of the causes: if these various causes
+considered *a priori* are unequally probable, then one must, in place
+of the probability of the event resulting from each cause, employ the
+product of this probability by the possibility of the cause
+itself. This is the fundamental principle of this branch of the
+analysis of chance, which consists of climbing back from the events to
+the causes. `XXX uh did that make sense?`
+
+This principle gives the reason for attributing to regular events a
+particular cause. Some philosophers have thought that these events are
+less possible than the others, and that in the game of *cross* or
+*pillar*, for example, the combination in which *cross* arrives twenty
+times in a row is less easy for nature than those where *cross* and
+*pillor* are intermixed in an irregular fashion. But this opinion
+supposes that past events influence the possibility of future events,
+which is not at all admissible. The regular combinations arrive rarely
+only because they are less numerous. . . .
+
+. . .
+
+**7th Principle.**
+
+The probability of a future event is the sum of the products of the
+probability of each cause, given the observed event, by the
+probability that, this cause existing, the future event will take
+place. The following example will clarify this principle.
+
+Let us imagine an urn enclosing just two balls, each being either
+white or black. We draw out one of these balls, then put it back into
+the urn, to proceed to a new draw. Let us suppose that in the two
+first draws, we have drawn two white balls; we ask the probability of
+drawing a white ball again on the third draw.
+
+We can make here only two hypotheses: either one of the balls is white
+and the other black, or both are white. On the first hypothesis, the
+probability of the observed event is 1/4: it is unity or certainty on
+the second. Hence, by regarding these hypotheses as so many causes, we
+will have, by the sixth principle, 1/5 and 4/5 for their respective
+probabilities. Now, if the first hypothesis holds, the probability of
+extracting a white ball on the third draw is 1/2: it equals unity
+under the second hypothesis; . . .
