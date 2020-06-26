@@ -56,7 +56,7 @@ physiologist of the human organism: to study and admire it.
 
 I mind it in the spirit that animates a famous traveler.
 
-He arrives among a wild tribe. A child has just been born and a crowd
+He arrives amidst a wild tribe. A child has just been born and a crowd
 of diviners, sorcerers, and empirics surrounds him, armed with rings,
 hooks, and bonds. One says: this child will never smell the scent of a
 peace pipe, unless I stretch his nostrils. Another: he will lack the
