@@ -7,7 +7,7 @@ of the nation, -- the Law, I say, not merely turned from its end, but
 redirected to its opposite! The Law become tool of all
 the cupidities, instead of their brake! The Law itself achieving the
 iniquity it had the mission to punish! Surely here is a grave fact, if
-it is true, to which I should be permitted to call the attention of my
+true, which I should be permitted to call to the attention of my
 fellow citizens.
 
 ------------------------
