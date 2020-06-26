@@ -36,7 +36,7 @@ successively retreated with the borders of our knowledge, and would
 disappear wholly before the healthy philosophy that sees in them
 only the expression of the ignorance actually due to ourselves.
 
-Present events have, with preceding ones, a link founded on the
+Present events have, to preceding ones, a link founded on the
 evident principle that one thing cannot begin to be without a cause
 producing it. This axiom, known by the name of the *principle of
 sufficient reason*, reaches even the actions we judge indifferent. The
@@ -84,14 +84,14 @@ tail of the comet of 1456 spread terror in a Europe already upset by
 the rapid successes of the Turks who had just thrown down the Low
 Empire. This star, after four of its revolutions, excited among us a
 quite different interest. The knowledge of the laws of the system of
-the world, gained in this interval, had dispelled the childish fears
+the world, won in this interval, had dispelled the childish fears
 due to ignorance of the true setting of man in the universe; and Halley,
 having recognized the identity of this comet with those of 1531, 1607,
 and 1682, announced its next return for the end of 1758 or the start
 of 1759. The world awaited, with impatience, this return that ought to
 confirm one of the greatest discoveries ever made in the sciences, and
 fulfil the prediction of Seneca, when he said of the revolution of
-those stars which descend from a vast distance: "The day will come
+these stars which descend from a vast distance: "The day will come
 when, by a study pursued over many centuries, things currently hidden
 will seem evident; and posterity will marvel that such clear truths
 escaped us." Clairaut undertook then to subject to analysis the
@@ -174,7 +174,7 @@ judged false by the enlightened listeners who will find it contrary to
 either well-attested facts or the immutable laws of nature.
 
 It is to the influence of the opinion of those whom the multitude
-judge the best instructed, and to whom it has the custom of bestowing
+judge the best educated, and to whom it has the custom of bestowing
 its trust about the most important objects of life, that is due the
 propagation of those errors that, in the times of ignorance, covered
 the face of the world. Magic and Astrology offer us two great
@@ -189,7 +189,7 @@ of a nation ideas wholly contrary to those that it maintains elsewhere
 with the same empire. What indulgence do we not owe then towards
 opinions different from ours, since this difference often depends
 merely on the diverse points of view where circumstances place us! Let
-us enlighten those we judge insufficiently instructed; but first of
+us enlighten those we judge insufficiently educated; but first of
 all let us severely examine our own opinions, and with impartiality
 weigh their respective probabilities.
 
@@ -272,7 +272,7 @@ across a great many successive generations: many historical events,
 reputed certain, would be at least doubtful, if submitted to this test.
 
 In the purely mathematical sciences, the most distant consequences
-partake of the certainty of the principle of which they derive. In the
+partake of the certainty of the principle from which they derive. In the
 applications of Analysis to Physics, the consequences have all the
 certainty of facts or experiments. But in the moral sciences when
 each consequence is deduced from the previous one in only a probable
