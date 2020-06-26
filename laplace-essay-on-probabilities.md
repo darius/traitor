@@ -341,7 +341,7 @@ particular cause. Some philosophers have thought that these events are
 less possible than the others, and that in the game of *cross* or
 *pillar*, for example, the combination in which *cross* arrives twenty
 times in a row is less easy for nature than those where *cross* and
-*pillor* are intermixed in an irregular fashion. But this opinion
+*pillar* are intermixed in an irregular fashion. But this opinion
 supposes that past events influence the possibility of future events,
 which is not at all admissible. The regular combinations arrive rarely
 only because they are less numerous. . . .
