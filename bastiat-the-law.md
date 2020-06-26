@@ -10,6 +10,8 @@ iniquity it had the mission to punish! Surely here is a grave fact, if
 it is true, to which I should be permitted to call the attention of my
 fellow citizens.
 
+------------------------
+
 We hold from God the gift which for us encompasses all, Life --
 physical, intellectual, and moral life.
 
