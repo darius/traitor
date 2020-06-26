@@ -79,6 +79,6 @@ tariffs, their universities, their religions of the State, their
 free-of-charge banks or their bank monopolies, their compressions,
 their restrictions, their moralization, their equalization by tax! And
 since we've vainly inflicted on the social body so many systems, let
-us end where we should have begun, let us rebuff the systems, let us
+us arrive where we should have begun, let us rebuff the systems, let us
 finally try Liberty -- Liberty, an act of faith in God and in his
 work.
