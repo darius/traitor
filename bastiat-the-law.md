@@ -43,7 +43,7 @@ organization of the individual Right of legitimate defense.
 
 It must be said: there are too many great men in the world; there are
 too many legislators, organizers, institutors of societies, conductors of
-peoples, fathers of nations, etc. Too many persons place themselves
+peoples, fathers of nations, etc. Too many persons set themselves
 above humanity to rule it, too many make a profession of minding it.
 
 Someone will say to me: you are minding humanity yourself, you who
