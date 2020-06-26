@@ -62,7 +62,7 @@ hooks, and bonds. One says: this child will never smell the scent of a
 peace pipe, unless I stretch his nostrils. Another: he will lack the
 sense of hearing, unless I draw his ears down to his shoulders. A
 third: he'll never see the sunshine unless I give his eyes a
-slant. A fourth: he'll never stand up unless I bend his legs. A fifth:
+slant. A fourth: he'll never stand upright unless I bend his legs. A fifth:
 he'll never think unless I squeeze his brain. Stand back, says the
 traveler. God made well what he did; don't pretend to know more than
 he, and since he has given organs to this frail creature, let them
