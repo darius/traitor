@@ -35,7 +35,7 @@ risky to follow, deserving challenge even when seeming the most
 reasonable.
 
 10. There is in the human heart an endless engendering of passions,
-making the ruin of one near-always the endowment of another.
+making the ruin of one near-always the foundation of another.
 
 11. The passions oft engender their opposites. Sometimes greed breeds
 extravagance, and extravagance greed; often we are firm by weakness,
@@ -62,7 +62,7 @@ now by sloth, often by fear, and nearly always by all three.
 gives their nature.
 
 18. Moderation is a fear of falling into the envy and contempt earned
-by those who are drunk on their good times; an empty show of our mental
+by those who are drunk on their happiness; an empty show of our mental
 strength; and lastly in the most elevated men a wish to seem greater
 than their fortune.
 
@@ -95,6 +95,22 @@ made like other men.
 
 27. We are often vain about even the most criminal passions; but envy is a
 passion too timid and ashamed to dare avowal.
+
+28. Jealousy is in some way fair and reasonable, since it tries to
+conserve a good belonging to us, or that we believe ours; contrarily
+envy is a fury that can't stand others' good.
+
+29. Our evil deeds do not attract to us so much persecution and hate as
+do our good qualities.
+
+30. We have more strength than will; and it's often to excuse
+ourselves that we deem things impossible.
+
+31. Had we no failings, we'd not take such pleasure in spotting them
+in others.
+
+32. Jealousy is nurtured in doubts, and becomes fury, or ends, on
+passing from doubt to certainty.
 
 *(Removed after the first edition:)*
 
