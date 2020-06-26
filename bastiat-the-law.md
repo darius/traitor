@@ -36,7 +36,7 @@ It's not because men have proclaimed Laws that Personality, Liberty,
 and Property exist. To the contrary, it's because of preexisting
 Personality, Liberty, and Property that men make Laws.
 
-What then is the Law? As I've said elsewhere, it is the collective
+What then is Law? As I've said elsewhere, it is the collective
 organization of the individual Right of legitimate defense.
 
 . . .
@@ -46,12 +46,12 @@ too many legislators, organizers, institutors of societies, conductors of
 peoples, fathers of nations, etc. Too many persons set themselves
 above humanity to rule it, too many make a profession of minding it.
 
-Someone will say to me: you are minding humanity yourself, you who
-speak. It's true. But this will be admitted to be in a quite different
+Someone will say to me: "You are minding humanity yourself, you who
+speak." It's true. But this will be admitted to be in a quite different
 sense and point of view, and if I mix with the reformers it's only to
 make them let go.
 
-I mind it not like Vaucanson, of his automaton, but like a
+I mind it not like Vaucanson, with his automaton, but like a
 physiologist of the human organism: to study and admire it.
 
 I mind it in the spirit that animates a famous traveler.
@@ -63,17 +63,17 @@ peace pipe, unless I stretch his nostrils. Another: he will lack the
 sense of hearing, unless I draw his ears down to his shoulders. A
 third: he'll never see the sunshine unless I give his eyes a
 slant. A fourth: he'll never stand upright unless I bend his legs. A fifth:
-he'll never think unless I squeeze his brain. Stand back, says the
-traveler. God made well what he did; don't pretend to know more than
-he, and since he has given organs to this frail creature, let them
-develop and strengthen by exercise, feeling out, experience, and Liberty.
+he'll never think unless I squeeze his brain. "Stand back," says the
+traveler. "God made well what he did; do not pretend to know more than
+he, and as he has given organs to this frail creature, let them
+develop and strengthen by exercise, feeling out, experience, and Liberty."
 
 God has placed in humanity, too, all it needs to achieve its
 destinies. There is a providential social physiology as there is a
 providential human physiology. The social organs as well are
 constituted to develop harmoniously in the great air of Liberty. Stand
 back, then, empirics and organizers! Back, their rings, chains, hooks,
-pincers! Back, their artificial means! Back, their social workshop,
+pincers! Back with their artificial means! Back, their social workshop,
 their commune, their governmentalism, their centralization, their
 tariffs, their universities, their religions of the State, their
 free-of-charge banks or their bank monopolies, their compressions,
