@@ -66,7 +66,7 @@ slant. A fourth: he'll never stand up unless I bend his legs. A fifth:
 he'll never think unless I squeeze his brain. Stand back, says the
 traveler. God made well what he did; don't pretend to know more than
 he, and since he has given organs to this frail creature, let them
-develop and strengthen by exercise, groping, experience, and Liberty.
+develop and strengthen by exercise, feeling out, experience, and Liberty.
 
 God has placed in humanity, too, all it needs to achieve its
 destinies. There is a providential social physiology as there is a
