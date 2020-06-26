@@ -172,7 +172,7 @@ into the most frivolous works; it finds all its pleasure in the most
 banal; and keeps all its pride in the most
 contemptible.  It is in all states of life, and all conditions; it
 lives everywhere, and on everything, and on
-nothing; it adjusts itself to all things, and to their removal;
+nothing; it adapts to all things, and to their removal;
 it even takes the part of those who war on it,
 it enters into their designs; and, what's admirable, it hates itself
 with them, it conjures its own defeat, it works even for its ruin. In
