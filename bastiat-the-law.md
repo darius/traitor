@@ -12,7 +12,7 @@ fellow citizens.
 
 ------------------------
 
-We hold from God the gift which for us encompasses all, Life --
+We hold from God the gift which for us encompasses all: Life --
 physical, intellectual, and moral life.
 
 But life is not sustained by itself. He who gave it to us left to us
@@ -47,7 +47,7 @@ peoples, fathers of nations, etc. Too many persons place themselves
 above humanity to rule it, too many make a profession of minding it.
 
 Someone will say to me: you are minding humanity yourself, you who
-speak. It's true. But it will be admitted this is in a quite different
+speak. It's true. But this will be admitted to be in a quite different
 sense and point of view, and if I mix with the reformers it's only to
 make them let go.
 
