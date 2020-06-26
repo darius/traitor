@@ -3,7 +3,7 @@ https://fr.wikisource.org/wiki/La_Loi_(Fr%C3%A9d%C3%A9ric_Bastiat)
 # The Law
 
 The law perverted! The law -- and behind it all the collective powers
-of the nation, -- the Law, I say, not merely turned from its end, but
+of the nation -- the Law, I say, not merely turned from its end, but
 redirected to its opposite! The Law become tool of all
 the cupidities, instead of their brake! The Law itself achieving the
 iniquity it had the mission to punish! Surely here is a grave fact, if
