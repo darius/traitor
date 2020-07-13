@@ -30,13 +30,13 @@ Every event, even those that by their minuteness seem not to hold to
 the great laws of nature, follows them as necessarily as the
 revolutions of the Sun. In our ignorance of the links that unite each
 to the whole system of the universe, we made them depend on final
-causes, or chance, by which they would occur and succeed one another
+causes, or on chance, according to whether they occur and succeed one another
 with regularity, or without apparent order; but these imaginary causes
-successively retreated with the borders of our knowledge, and would
+have successively retreated with the borders of our knowledge, and
 disappear wholly before the healthy philosophy that sees in them
 only the expression of the ignorance actually due to ourselves.
 
-Present events have, to preceding ones, a link founded on the
+Present events have, to the preceding ones, a link founded on the
 evident principle that one thing cannot begin to be without a cause
 producing it. This axiom, known by the name of the *principle of
 sufficient reason*, reaches even the actions we judge indifferent. The
@@ -59,59 +59,59 @@ greatest bodies in the universe and the lightest atom: nothing would
 be uncertain to it, and the future, like the past, would be present to
 its eyes. The human mind offers, in the perfection it has been able to
 give Astronomy, a feeble sketch of this intelligence. Its discoveries
-in Mechanics and Geometry, along with that of universal gravity, have
-set it in reach to comprehend in the same analytic expressions the
+in Mechanics and Geometry, along with that of universal gravitation, have
+set in reach the means to comprehend in the same analytic expressions the
 past and future states of the system of the world. In applying the
-same method to some other objects of its knowledge, it succeeded in
-ramifying into general laws the observed phenomena, and in foreseeing
-which of the given circumstances should hatch. All these efforts in
+same method to some other objects of its knowledge, it has succeeded in
+attributing to general laws the phenomena observed, and in foreseeing
+those which given circumstances should bring forth. All these efforts in
 the search for truth tend ceaselessly towards the intelligence we just
-conceived, which will remain always infinitely distant. This tendency,
-native to the human species, is what places it above the animals; and
+conceived, which will forever remain infinitely distant. This tendency,
+proper to the human race, is what places it above the animals; and
 its progress of this kind distinguishes nations and centuries, and
 makes their true glory.
 
-Recall that of yore, not so long ago, a rain or a drought, a comet
-dragging a long-extended tail, the aurora borealis, and in general all
+Recall that of yore, and not so long ago, a deluge or a drought, a comet
+dragging a long-extended tail, eclipses, the aurora borealis, and in general all
 extraordinary phenomena, were regarded as so many signs of heavenly ire.
-We invoked the heavens to turn away their evil influence. We prayed
+We implored heaven to deflect their evil influence. We prayed
 not at all to suspend the course of the planets and the Sun:
 observation had quickly made felt the vanity of these prayers. But as
-these phenomena appeared and vanished at long intervals, seeming to
-oppose the order of nature, we supposed heaven, vexed by our earthly
+these phenomena appearing and vanishing at long intervals seemed to
+defy the order of nature, we supposed heaven, vexed by our earthly
 crimes, gave birth to them to announce its revenges. Thus the long
 tail of the comet of 1456 spread terror in a Europe already upset by
-the rapid successes of the Turks who had just thrown down the Low
-Empire. This star, after four of its revolutions, excited among us a
+the rapid successes of the Turks who had just overthrown the Byzantine
+Empire. This heavenly body, after four of its revolutions, excited among us a
 quite different interest. The knowledge of the laws of the system of
-the world, won in this interval, had dispelled the childish fears
-due to ignorance of the true setting of man in the universe; and Halley,
+the world, won in this interval, had dispelled the fears bred by
+ignorance of the true setting of man in the universe; and Halley,
 having recognized the identity of this comet with those of 1531, 1607,
 and 1682, announced its next return for the end of 1758 or the start
-of 1759. The world awaited, with impatience, this return that ought to
+of 1759. The learned world awaited, with impatience, this return which ought to
 confirm one of the greatest discoveries ever made in the sciences, and
-fulfil the prediction of Seneca, when he said of the revolution of
-these stars which descend from a vast distance: "The day will come
+to fulfil the prediction of Seneca, when he said of the revolution of
+these bodies that descend from a vast distance: "The day will come
 when, by a study pursued over many centuries, things currently hidden
 will seem evident; and posterity will marvel that such clear truths
 escaped us." Clairaut undertook then to subject to analysis the
 perturbations the comet had felt by the action of the two largest
 planets, Jupiter and Saturn; after immense calculations he fixed its
-next passage to perihelion at the start of April 1759, which
+next passage to perihelion towards the start of April 1759, which
 observation did not take long to confirm. The regularity shown us by
 Astronomy in the movement of comets has place, no doubt, in all
 phenomena. The curve described by a simple molecule of air or of
 vapors is ruled in a manner as certain as the planetary orbits: there
-are no differences between these but those of our ignorance.
+are no differences between these but those put there by our ignorance.
 
 Probability is relative in part to this ignorance, in part to our
-knowledge. We know that among three or a greater number of events, one
-must happen; but nothing brings us to think that one will, rather than
+knowledge. {Suppose} we know that among three or a greater number of events, just one
+must occur; but nothing brings us to think that one of them will, rather than
 the others. In this state of indecision, it is impossible for us to
 pronounce with certainty upon their occurrence. It is, however, probable
 that one of these events, taken at will, will not happen, because we
-see many cases equally possible which exclude its occurrence, while
-favoring only one.
+see several equally possible cases that exclude its occurrence, while
+only one favors it.
 
 The theory of chance consists in reducing all the events of the same
 kind to a certain number of cases all equally possible, meaning such
@@ -135,7 +135,7 @@ that the threads uniting the balls no longer break, it is clear that
 the number of possible events will not change, nor will the number of
 events favorable to the extraction of black balls; only, you will pull
 from the urn two balls at once; hence the probability of producing a
-black ball will be the same as at first. But then you have the case of
+black ball will be the same as at first. But then you clearly have the case of
 urn B, with the sole difference that the three balls of this urn be
 replaced by three pairs of balls invariably bound.
 
@@ -163,8 +163,8 @@ you are assured that urns A and B hold only white balls.
 
 In this way the same fact, recited before a numerous assembly, obtains
 various degrees of credence, according to the extent of knowledge of
-the audience. If the man who reports it is intimately persuaded, and
-if, by his state and his character, he inspires great confidence; his
+the listeners. If the man who reports it is intimately persuaded, and
+if by his state and his character he inspires great confidence; his
 tale, however extraordinary it be, will have for unenlightened
 listeners the same degree of probability as an ordinary fact reported
 by the same man, and they will give him an entire faith. However if
@@ -181,10 +181,10 @@ the face of the world. Magic and Astrology offer us two great
 examples. These errors inculcated since childhood, adopted unchecked,
 and having for basis only universal belief, maintained themselves
 through a very long time, until at last the progress of the sciences
-destroyed them in the minds of enlightened men, following which the
-opinion was made to disappear even among the people by the power so
-widespread in them of imitation and habit. This power, the most
-powerful resort of the moral world, establishes and conserves in all
+destroyed them in the minds of enlightened men, whose opinion then
+dissolved them even among the people, by the same power of imitation
+and habit which had spread them so widely. This power, the mightiest
+spring of the moral world, establishes and conserves in all
 of a nation ideas wholly contrary to those that it maintains elsewhere
 with the same empire. What indulgence do we not owe then towards
 opinions different from ours, since this difference often depends
@@ -193,7 +193,7 @@ us enlighten those we judge insufficiently educated; but first of
 all let us severely examine our own opinions, and with impartiality
 weigh their respective probabilities.
 
-The difference of opinions depends still on the way we determine the
+The difference of opinions depends as well on the way we determine the
 influence of the known data. The theory of probabilities holds
 considerations so delicate that it is not surprising that with the
 same data, two people find different results, above all in very
