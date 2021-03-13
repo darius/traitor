@@ -61,12 +61,12 @@ its eyes. The human mind offers, in the perfection it has been able to
 give Astronomy, a feeble sketch of this intelligence. Its discoveries
 in Mechanics and Geometry, along with that of universal gravitation, have
 set in reach the means to comprehend in the same analytic expressions the
-past and future states of the system of the world. In applying the
+past and future states of the system of the world. By applying the
 same method to some other objects of its knowledge, it has succeeded in
 attributing to general laws the phenomena observed, and in foreseeing
 those which given circumstances should bring forth. All these efforts in
-the search for truth tend ceaselessly towards the intelligence we just
-conceived, which will forever remain infinitely distant. This tendency,
+the search for truth ceaselessly tend to bring it closer to the intelligence we just
+conceived, but from which it will forever remain infinitely distant. This tendency,
 proper to the human race, is what places it above the animals; and
 its progress of this kind distinguishes nations and centuries, and
 makes their true glory.
@@ -141,11 +141,11 @@ replaced by three pairs of balls invariably bound.
 
 When every case is favorable to an event, its probability becomes
 certainty, and its expression equal to unity. In this way certainty
-and probability are comparable, whatever essential difference there
-may be between the two states of the mind, when either a truth is
+and probability are comparable, although there is an essential difference
+in the two states of the mind, when either a truth is
 rigorously proved to it, or it sees still a small source of error.
 
-For things that are only probable, the difference of data that each
+For things that are only plausible, the difference of data that each
 man has about them is one of the main causes of the diversity of
 opinions we see reigning over the same objects. Let us suppose, for
 example, we have three urns A, B, C, with one containing only black
@@ -184,7 +184,7 @@ through a very long time, until at last the progress of the sciences
 destroyed them in the minds of enlightened men, whose opinion then
 dissolved them even among the people, by the same power of imitation
 and habit which had spread them so widely. This power, the mightiest
-spring of the moral world, establishes and conserves in all
+mean of the moral world, establishes and preserves in all
 of a nation ideas wholly contrary to those that it maintains elsewhere
 with the same empire. What indulgence do we not owe then towards
 opinions different from ours, since this difference often depends
@@ -214,47 +214,47 @@ the sum of the possibilities of each favorable case. Let us clarify
 this principle by an example.
 
 Suppose we project into the air a broad and very thin coin whose two
-large opposed faces, which we name *cross* and *pillar*, be perfectly
-similar. We seek the probability of achieving *cross* at least once in
+large opposed faces, which we name *heads* and *tails*, be perfectly
+similar. We seek the probability of achieving *heads* at least once in
 two tosses. It is clear there can occur four equally possible cases,
-namely: *cross* on the first toss and the second; *cross* on the first
-toss and *pillar* on the second; *pillar* first and *cross* second;
-and finally *pillar* on both tosses. The first three cases are
+namely: *heads* on the first toss and the second; *heads* on the first
+toss and *tails* on the second; *tails* first and *heads* second;
+and finally *tails* on both tosses. The first three cases are
 favorable to the event we seek, whose probability is thus equal to
-3/4; implying that it is three against one to bet that *cross* will
+3/4; implying that it is three against one to bet that *heads* will
 happen at least one time in two tosses.
 
-We can count in this game only three different cases, namely: *cross*
-on the first toss, which dispenses with playing a second; *pillar* on
-the first toss and *cross* on the second; and finally *pillar* on the
+We can count in this game only three different cases, namely: *heads*
+on the first toss, which dispenses with playing a second; *tails* on
+the first toss and *heads* on the second; and finally *tails* on the
 first and second tosses. This would reduce the probability to 2/3, if
-we were to consider, with d'Alembert, these three cases as equally
-possible. But it is visible that the probability of achieving *cross*
+we were to consider, as d'Alembert, these three cases as equally
+possible. But it is visible that the probability of achieving *heads*
 on the first toss is 1/2, while that of the two other cases is 1/4;
 the first case being a simple event that corresponds to the two
-compound events, *cross* on the first and second tosses, and *cross*
-on the first toss, *pillar* on the second. Now if, conforming to the
-second principle, we add the possibility 1/2 of *cross* on the first
-toss, to the possibility 1/4 of *pillar* happening on the first toss
-and *cross* on the second, we will have 3/4 for the probability
+compound events, *heads* on the first and second tosses, and *cross*
+on the first toss, *tails* on the second. Now if, conforming to the
+second principle, we add the possibility 1/2 of *heads* on the first
+toss, to the possibility 1/4 of *tails* happening on the first toss
+and *heads* on the second, we will have 3/4 for the probability
 sought, which accords with what we found on the supposition of playing
-both tosses. This supposition does not change in the least the outcome
-we bet on for this event: it serves merely to reduce the diverse cases
+both tosses. This supposition does not change in the least the situation
+of a bettor on this event: it serves merely to reduce the diverse cases
 to equally-possible ones.
 
 **3rd Principle.** One of the most important points of the theory of
-Probabilities, and the one that lends the most to illusions, is the
+Probabilities, and the one that lends itself the most to illusions, is the
 way the probabilites increase and decrease by their mutual
 combinations. If the events are independent of each other, the
 probability of their existing together is the product of their
 particular probabilities. Thus the probability of achieving an ace
 with a single die being a sixth, that of achieving two aces in rolling
-two dice at once is a thirty-sixth. In fact, each of the faces of the
+two dice at once is a thirty-sixth. Indeed, each of the faces of the
 one die being combinable with the six faces of the other, there are
 thirty-six equally possible cases, among which only one yields the two
-aces. Generally, the probability that a simple event in the same
-circumstances, will occur in sequence a given number of times, is
-equal to the probability of this simple event, raised to a power
+aces. Generally, the probability that a single event in the same
+circumstances occurs in sequence a given number of times is
+equal to the probability of this single event, raised to a power
 indicated by this number. As the successive powers of a fraction less
 than unity diminish without cease, an event that depends on a series
 of quite large probabilities can become extremely improbable. Suppose
@@ -262,9 +262,9 @@ that a fact reach us by twenty witnesses, in the manner that the first
 transmit it to the second, the second to the third, and so on. Suppose
 further that the probability of each testimony be 9/10: then that of the
 fact resulting from the testimonies will be less than one
-eighth. One cannot better compare this diminution of probability than
-to the extinction of the light from objects, by the interposition of
-multiple pieces of glass; an insignificant number of pieces sufficing
+eighth. One cannot better compare this reduction of probability than
+to the extinction of the clarity of objects, by the interposition of
+multiple pieces of glass; an number of insignificant pieces sufficing
 to conceal the sight of an object which a single piece leaves
 distinctly perceptible. Historians seem not to have paid enough
 attention to this degradation of the probability of facts, when seen
@@ -274,10 +274,10 @@ reputed certain, would be at least doubtful, if submitted to this test.
 In the purely mathematical sciences, the most distant consequences
 partake of the certainty of the principle from which they derive. In the
 applications of Analysis to Physics, the consequences have all the
-certainty of facts or experiments. But in the moral sciences when
+certainty of facts or experiments. But in the moral sciences,
 each consequence is deduced from the previous one in only a probable
-way, the chance of error increases with their number, and finishes by
-surpassing the chance of truth, in consequences very distant from the
+way; however probable these deductions, the chance of error increases with their number, and ends up
+surpassing the chance of truth, for consequences very distant from the
 beginning.
 
 **4th Principle.** When two events depend one on the other, the
@@ -297,7 +297,7 @@ the black balls; and the probability of this case is evidently 1/3.
 
 We see by this example the influence of past events on the probability
 of future ones. Because the probability to extract a white ball from
-urn B, which primitively is 2/3, becomes 1/2 once we have extracted a
+urn B, which initially is 2/3, becomes 1/2 once we have extracted a
 white ball from urn C: it would be changed to certainty if we had
 extracted a black ball from the same urn. We will determine this
 influence by means of the following principle, which is a corollary of
@@ -305,18 +305,18 @@ the preceding one.
 
 **5th Principle.** If we calculate *a priori* the probability of the
 event observed, and the probability of an event composed of that one
-and of another which we await; the second probability, divided by the
-first, will be the probability of the awaited event, given the
+and of another which we expect; the second probability, divided by the
+first, will be the probability of the expected event, given the
 observed event.
 
-Here is presented the question agitated[XXX] by some philosophers,
-touching the influence of the past on the probability of the
-future. Let us suppose that in the game of *cross* or *pillar*,
-*cross* has happened more often than *pillar*: by that alone, we will
+Here occurs the debate stirred by a few philosophers,
+touching upon the influence of the past on the probability of the
+future. Let us suppose that in the game of *heads* or *tails*,
+*heads* has happened more often than *tails*: by that alone, we will
 be brought to believe that in the makeup of the coin there is a cause
 constantly favoring this. So too, in the conduct of life, is
-consistent good fortune a proof of shrewdness, which the fortunate
-must employ preferentially. But if by the instability of circumstances
+consistent good fortune a proof of shrewdness, which must lead us to preferably employ happy people.
+But if by the instability of circumstances
 we are continually led to a state of absolute indecision; if for
 example we change to a new coin for each toss; the past can shed no
 light upon the future, and it would be absurd to take it into account.
@@ -333,15 +333,15 @@ considered *a priori* are unequally probable, then one must, in place
 of the probability of the event resulting from each cause, employ the
 product of this probability by the possibility of the cause
 itself. This is the fundamental principle of this branch of the
-analysis of chance, which consists of climbing back from the events to
+analysis of chance, which consists of going back from the events to
 the causes. `XXX uh did that make sense?`
 
 This principle gives the reason for attributing to regular events a
 particular cause. Some philosophers have thought that these events are
-less possible than the others, and that in the game of *cross* or
-*pillar*, for example, the combination in which *cross* arrives twenty
-times in a row is less easy for nature than those where *cross* and
-*pillar* are intermixed in an irregular fashion. But this opinion
+less possible than the others, and that in the game of *heads* or
+*tails*, for example, the combination in which *heads* occurs twenty
+times in a row is less easy for nature than those where *heads* and
+*tails* are intermixed in an irregular fashion. But this opinion
 supposes that past events influence the possibility of future events,
 which is not at all admissible. The regular combinations arrive rarely
 only because they are less numerous. . . .
@@ -351,7 +351,7 @@ only because they are less numerous. . . .
 **7th Principle.**
 
 The probability of a future event is the sum of the products of the
-probability of each cause, given the observed event, by the
+probability of each cause, given the observed event, and of the
 probability that, this cause existing, the future event will take
 place. The following example will clarify this principle.
 
