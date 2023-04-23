@@ -263,7 +263,7 @@ transmit it to the second, the second to the third, and so on. Suppose
 further that the probability of each testimony be 9/10: then that of the
 fact resulting from the testimonies will be less than one
 eighth. One cannot better compare this reduction of probability than
-to the extinction of the clarity of objects, by the interposition of
+to the extinction of the brightness of objects, by the interposition of
 multiple pieces of glass; an number of insignificant pieces sufficing
 to conceal the sight of an object which a single piece leaves
 distinctly perceptible. Historians seem not to have paid enough
@@ -315,7 +315,7 @@ future. Let us suppose that in the game of *heads* or *tails*,
 *heads* has happened more often than *tails*: by that alone, we will
 be brought to believe that in the makeup of the coin there is a cause
 constantly favoring this. So too, in the conduct of life, is
-consistent good fortune a proof of shrewdness, which must lead us to preferably employ happy people.
+consistent good fortune a proof of shrewdness, which must lead us to prefer employing the fortunate.
 But if by the instability of circumstances
 we are continually led to a state of absolute indecision; if for
 example we change to a new coin for each toss; the past can shed no
